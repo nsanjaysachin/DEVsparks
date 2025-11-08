@@ -1,0 +1,8 @@
+{
+  "name": "Safesphere FinAI",
+  "description": "An AI-driven personal finance assistant that merges receipt digitization, expense analysis, and personalized financial insights. Capture, organize, and understand your spending habits using multimodal AI to gain data-backed recommendations and savings insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
